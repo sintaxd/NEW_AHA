@@ -1,7 +1,7 @@
 <?php
 //aa
 namespace App;
-
+//test sinta push meow
 use Illuminate\Database\Eloquent\Model;
 
 class Jadwal extends Model
